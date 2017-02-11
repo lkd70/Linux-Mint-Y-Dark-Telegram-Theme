@@ -1,7 +1,7 @@
 # Linux-Mint-Y-Dark-Telegram-Theme
 A Telegram Desktop theme based on the appearance of "Mint-Y-Dark" Linux Mint theme.
 
-![Example of theme](https://s27.postimg.org/r3z2d65vn/telegram.png)
+![Example of theme](https://s23.postimg.org/n0ul00u2j/upload.png)
 
 The theme is loosly based on the appearance of Linux Mints "Mint-Y-Dark" theme as seen here:
 [Mint-Y-Dark Theme](https://www.linuxmint.com/pictures/screenshots/sarah/mate-mint-y-dark.png)
